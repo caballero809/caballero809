@@ -1,7 +1,8 @@
+:heavy_check_mark: Hector Caballero
 ### Hi there 👋
 
 :koala: Koala Outsourcing
-:code: 
+:email: hcaballero@koalaoutsourcing.com
 
 <!--
 **caballero809/caballero809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
