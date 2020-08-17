@@ -1,10 +1,8 @@
-:heavy_check_mark: Hector Caballero
+## Hi there 👋
+
+### :heavy_check_mark: :koala: Hector Caballero
 
 ![](https://github.com/caballero809/caballero809/blob/master/Logo_GAPPS.png)
-
-### Hi there 👋
-
-:koala: Koala Outsourcing 
 
 :email: hcaballero@koalaoutsourcing.com
 
