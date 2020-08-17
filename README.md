@@ -1,7 +1,8 @@
-:heavy_check_mark: Hector Caballero
+:heavy_check_mark: _Hector Caballero_
 ### Hi there 👋
 
-:koala: Koala Outsourcing
+:koala: Koala Outsourcing 
+
 :email: hcaballero@koalaoutsourcing.com
 
 <!--
